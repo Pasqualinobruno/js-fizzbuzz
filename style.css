@@ -1,0 +1,32 @@
+*{
+    
+}
+body {
+    background-color: blueviolet;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 800px;
+    margin: auto;
+}
+.box{
+    min-width: 50px;
+    border: 3px solid black;
+    margin: 2px;
+    background-color: beige;
+    padding: 1rem;
+}
+.bk-red{
+    background-color: red;
+}
+.bk-green{
+    background-color: green;
+}
+.bk-yellow{
+    background-color: yellow;
+}
+.bk-blu{
+    background-color: blue;
+}
